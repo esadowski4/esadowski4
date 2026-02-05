@@ -6,5 +6,5 @@ I am currently a sophomore in college with a passion for **Security Engineering*
 
 ### 📫 Let's Connect
 * [LinkedIn](https://www.linkedin.com/in/ericsadowski)
-* [Portfolio/Website (Coming Soon)]()
+* [Portfolio/Website (Coming Soon)]
 * [Email](mailto:esadowsk@purdue.edu)
