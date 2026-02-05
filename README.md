@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Eric!</h1>
+# Hi there, I'm Eric 👋
 
-<h3 align="center">I am studying Computer Science at Purdue University</h3>
+### Security Engineer Intern @ AWS | CS Student @ Purdue University
 
+I am currently a sophomore in college with a passion for **Security Engineering**, **Distributed Systems**, and **Machine Learning**. I enjoy peeling back the layers of abstraction to understand how software interacts with hardware, from C and x86 Assembly up to large-scale distributed infrastructure.
 
-- Reach me at - [esadowsk@purdue.edu](mailto:esadowsk@purdue.edu)
-  
-- LinkedIn - [https://www.linkedin.com/in/ericsadowski/](https://www.linkedin.com/in/ericsadowski/)
-  
-- Personal Website - Coming Soon!
+### 📫 Let's Connect
+* [LinkedIn](https://www.linkedin.com/in/ericsadowski)
+* [Portfolio/Website (Coming Soon)]()
+* [Email](mailto:esadowsk@purdue.edu)
