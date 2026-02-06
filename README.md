@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="vader.svg" width="400" />
+  <img src="vader.svg" width="500" />
   
 <div align="center">
 
