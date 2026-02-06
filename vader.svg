@@ -3,7 +3,7 @@
         font-family="Consolas, Monaco, 'Andale Mono', monospace" 
         font-weight="bold" font-size="16" fill="#ff3333" 
         style="text-shadow: 0 0 6px rgba(255, 0, 0, 0.7); letter-spacing: 0px;">
-<tspan x="15" dy="1.1em">                       .-.</tspan>
+<tspan x="15" dy="0em">                       .-.</tspan>
 <tspan x="15" dy="1.1em">                      |_:_|</tspan>
 <tspan x="15" dy="1.1em">                     /(_Y_)\</tspan>
 <tspan x="15" dy="1.1em">.                   ( \/M\/ )</tspan>
