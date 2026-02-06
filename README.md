@@ -1,26 +1,26 @@
 ```text
-                                                                 .-.
-                                                                |_:_|
-                                                               /(_Y_)\
-                                          .                   ( \/M\/ )
-                                           '.               _.'-/'-'\-'._
-                                             ':           _/.--'[[[[]'--.\_
-                                               ':        /_'  : |::"| :  '.\
-                                                 ':     //   ./ |oUU| \.'  :\
-                                                   ':  _:'..' \_|___|_/ :   :|
-                                                     ':.  .'  |_[___]_|  :.':\            
-                                                      [::\ |  :  | |  :   ; : \
-                                                       '-'   \/'.| |.' \  .;.' |
-                                                       |\_    \  '-'   :       |
-                                                       |  \    \ .:    :   |   |
-                                                       |   \    | '.   :    \  |
-                                                       /       \   :. .;       |
-                                                      /     |   |  :__/     :  \\
-                                                     |  |   |    \:   | \   |   ||
-                                                    /    \  : :  |:   /  |__|   /|
-                                                   |     : : :_/_|  /'._\  '--|_\
-                                                    /___.-/_|-'   \  \
-                                                                   '-'
+                            .-.
+                           |_:_|
+                          /(_Y_)\
+                         ( \/M\/ )
+                       _.'-/'-'\-'._
+                     _/.--'[[[[]'--.\_
+                    /_'  : |::"| :  '.\
+                   //   ./ |oUU| \.'  :\
+                 _:'..' \_|___|_/ :   :|
+                :.  .'  |_[___]_|  :.':\
+                [::\ |   :  | |  :   ; : \
+                 '-'   \/'.| |.' \  .;.' |
+                 |\_     \  '-'   :       |
+                 |  \     \ .:     :    |  |
+                 |   \     | '.    :     \ |
+                 /        \   :. .;       |
+                /      |   |  :__/      :  \\
+               |  |   |    \:   | \    |   ||
+              /    \  : :  |:   /  |__|   /|
+             |      : : :_/_|  /'._\  '--|_\
+              /___.-/_|-'   \  \
+                              '-'
 ```
 <div align="center">
 
@@ -32,5 +32,5 @@ I am currently a sophomore in college with a passion for **Security Engineering*
 
 ---
 ### 📫 Let's Connect
-* [LinkedIn](https://www.linkedin.com/in/ericsadowski) | Portfolio/Website (Coming Soon) | [Email](mailto:esadowsk@purdue.edu)
+[LinkedIn](https://www.linkedin.com/in/ericsadowski) | Portfolio/Website (Coming Soon) | [Email](mailto:esadowsk@purdue.edu)
 </div>
