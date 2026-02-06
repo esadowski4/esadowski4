@@ -2,19 +2,26 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
+        .container {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          height: 100%;
+          width: 100%;
+        }
         .ascii {
           font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
           font-size: 14px;
-          color: #ff3333; /* SITH RED COLOR */
+          color: #ff3333; /* Sith Red */
           white-space: pre;
-          text-align: center;
-          width: 100%;
-          padding-top: 20px;
+          text-align: left; /* Keeps the art shape correct */
           font-weight: bold;
-          text-shadow: 0 0 5px rgba(255, 0, 0, 0.5); /* Glowing Saber Effect */
+          text-shadow: 0 0 5px rgba(255, 0, 0, 0.6); /* Glow effect */
+          line-height: 1.1;
         }
       </style>
-      <div class="ascii">
+      <div class="container">
+        <div class="ascii">
                             .-.
                            |_:_|
                           /(_Y_)\
@@ -37,6 +44,7 @@
              |      : : :_/_|  /'._\  '--|_\
               /___.-/_|-'   \  \
                               '-'
+        </div>
       </div>
     </div>
   </foreignObject>
