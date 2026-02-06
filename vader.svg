@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 420" width="450" height="420">
   <text x="15" y="30" text-anchor="start" xml:space="preserve"
-        font-family="Consolas, Monaco, 'Andale Mono', monospace" 
+        font-family="'Courier New', Courier, monospace" 
         font-weight="bold" font-size="16" fill="#ff3333" 
-        style="text-shadow: 0 0 6px rgba(255, 0, 0, 0.7); letter-spacing: 0px;">
-<tspan x="15" dy="0em">                        .-.</tspan>
+        style="text-shadow: 0 0 6px rgba(255, 0, 0, 0.7); letter-spacing: -1px;">
+<tspan x="15" dy="0em">                       .-.</tspan>
 <tspan x="15" dy="1.1em">                      |_:_|</tspan>
 <tspan x="15" dy="1.1em">                     /(_Y_)\</tspan>
 <tspan x="15" dy="1.1em">.                   ( \/M\/ )</tspan>
