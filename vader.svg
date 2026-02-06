@@ -12,39 +12,43 @@
         .ascii {
           font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
           font-size: 14px;
-          color: #ff3333; /* Sith Red */
+          color: #ff3333;
           white-space: pre;
-          text-align: left; /* Keeps the art shape correct */
           font-weight: bold;
-          text-shadow: 0 0 5px rgba(255, 0, 0, 0.6); /* Glow effect */
+          text-shadow: 0 0 5px rgba(255, 0, 0, 0.6);
           line-height: 1.1;
+          
+          /* --- THE MANUAL SLIDER --- */
+          /* If it looks too far right, use a negative number (e.g., -50px) */
+          /* If it looks too far left, use a positive number (e.g., 50px) */
+          margin-left: 0px; 
         }
       </style>
       <div class="container">
         <div class="ascii">
-                            .-.
-                           |_:_|
-                          /(_Y_)\
-                         ( \/M\/ )
-                       _.'-/'-'\-'._
-                     _/.--'[[[[]'--.\_
-                    /_'  : |::"| :  '.\
-                   //   ./ |oUU| \.'  :\
-                 _:'..' \_|___|_/ :   :|
-                :.  .'  |_[___]_|  :.':\
-                [::\ |   :  | |  :   ; : \
-                 '-'   \/'.| |.' \  .;.' |
-                 |\_     \  '-'   :       |
-                 |  \     \ .:     :    |  |
-                 |   \     | '.    :     \ |
-                 /        \   :. .;       |
-               /      |   |  :__/      :  \\
-               |  |   |    \:   | \    |   ||
-              /    \  : :  |:   /  |__|   /|
-             |      : : :_/_|  /'._\  '--|_\
-              /___.-/_|-'   \  \
-                              '-'
-        </div>
+            .-.
+           |_:_|
+          /(_Y_)\
+         ( \/M\/ )
+       _.'-/'-'\-'._
+     _/.--'[[[[]'--.\_
+    /_'  : |::"| :  '.\
+   //   ./ |oUU| \.'  :\
+ _:'..' \_|___|_/ :   :|
+:.  .'  |_[___]_|  :.':\
+[::\ |   :  | |  :   ; : \
+ '-'   \/'.| |.' \  .;.' |
+ |\_     \  '-'   :       |
+ |  \     \ .:     :    |  |
+ |   \     | '.    :     \ |
+ /        \   :. .;       |
+/      |   |  :__/      :  \\
+|  |   |    \:   | \    |   ||
+/    \  : :  |:   /  |__|   /|
+|      : : :_/_|  /'._\  '--|_\
+/___.-/_|-'   \  \
+              '-'
+</div>
       </div>
     </div>
   </foreignObject>
