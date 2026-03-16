@@ -7,7 +7,7 @@
 
 ### Security Engineer Intern @ AWS | CS @ Purdue University
 
-I am currently a sophomore in college with a passion for **Security Engineering**, **Distributed Systems**, and **Machine Learning**. I enjoy peeling back the layers of abstraction to understand how software interacts with hardware, from C and x86 Assembly up to large-scale distributed infrastructure. I also love Star Wars (as you can see).
+I am currently a sophomore at Purdue University with a passion for **Security Engineering**, **Distributed Systems**, and **Machine Learning**. I enjoy peeling back the layers of abstraction to understand how software interacts with hardware, from C and x86 Assembly up to large-scale distributed infrastructure. I also love Star Wars (as you can see).
 
 ---
 ### 📫 Let's Connect
