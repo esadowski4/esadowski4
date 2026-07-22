@@ -1,0 +1,6 @@
+<svg width="720" height="75" viewBox="0 0 720 75" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="75" fill="none"/>
+  <text x="360" y="22" font-family="Verdana" font-size="14" fill="#ffffff" text-anchor="middle">Focused on <tspan font-weight="bold">AI infrastructure security</tspan>, <tspan font-weight="bold">cloud security</tspan>, and <tspan font-weight="bold">systems programming</tspan>.</text>
+  <text x="360" y="46" font-family="Verdana" font-size="14" fill="#ffffff" text-anchor="middle">Working at the intersection of <tspan font-weight="bold">security engineering</tspan> and <tspan font-weight="bold">AI</tspan>,</text>
+  <text x="360" y="68" font-family="Verdana" font-size="14" fill="#ffffff" text-anchor="middle">securing the systems that run modern <tspan font-weight="bold">ML workloads</tspan>.</text>
+</svg>
