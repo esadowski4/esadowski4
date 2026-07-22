@@ -2,24 +2,24 @@
 
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:2d1b69&height=160&section=header&animation=fadeIn)](https://github.com/esadowski4)
 
-# Eric Sadowski
-
-#### AI Security &bull; AWS &bull; Purdue University
-
+<p align="center">
 <img src="deoxys_sprite.png" width="180"/>&nbsp;&nbsp;<img src="tina_sprite.png" width="180"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=24&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=680&lines=Hi%2C+I%27m+Eric!;CS+Junior+%40+Purdue+University;Aspiring+AI+Infra+Security+Engineer;Security+Engineer+Intern+%40+AWS)](https://git.io/typing-svg)
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=24&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=680&lines=Hi%2C+I%27m+Eric!;CS+Junior+%40+Purdue+University;Aspiring+AI+Infra+Security+Engineer;Security+Engineer+Intern+%40+AWS"/></a>
+</p>
 
-<br/>
-
-<img src="bio.svg" width="700"/>
+<p align="center">
+<img src="bio.svg" width="680"/>
+</p>
 
 <br/>
 
 <p>
-<a href="https://twitter.com/esadowski4"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" width="90"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/ericsadowski"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="140"/></a>&nbsp;
-<a href="mailto:esadowsk@purdue.edu"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="110"/></a>
+<a href="https://twitter.com/esadowski4"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" height="35"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/ericsadowski"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>&nbsp;
+<a href="mailto:esadowsk@purdue.edu"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>
 </p>
 <p>
 <a><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/></a>
@@ -37,15 +37,11 @@
 
 ### Cloud & Infrastructure
 
-[![Cloud](https://skillicons.dev/icons?i=aws,gcp,terraform,linux,git)](https://skillicons.dev)
+[![Cloud](https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,linux,git)](https://skillicons.dev)
 
 ### Frameworks & Databases
 
 [![Frameworks](https://skillicons.dev/icons?i=nodejs,react,express,nextjs,mongodb,postgres)](https://skillicons.dev)
-
----
-
-<img src="stars.svg" width="700"/><br/><img src="https://github-readme-activity-graph.vercel.app/graph?username=esadowski4&bg_color=020817&color=8892b0&line=38bdf8&point=e2e8f0&area=true&area_color=0d1f3c&hide_border=true" width="700"/>
 
 ---
 
