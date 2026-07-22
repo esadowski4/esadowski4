@@ -17,9 +17,9 @@
 <br/>
 
 <p>
-<a href="https://twitter.com/esadowski4"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" height="35"/></a>&nbsp;
+<a href="https://twitter.com/zendowski_"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" height="35"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/ericsadowski"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>&nbsp;
-<a href="mailto:esadowsk@purdue.edu"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>
+<a href="mailto:ericsadowski4@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>
 </p>
 <p>
 <a><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/></a>
