@@ -3,7 +3,7 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:2d1b69&height=160&section=header&animation=fadeIn)](https://github.com/esadowski4)
 
 <p align="center">
-<img src="deoxys_sprite.png" width="180"/>&nbsp;&nbsp;<img src="tina_sprite.png" width="180"/>
+<img src="deoxys_sprite.png" width="180"/>
 </p>
 
 <p align="center">
@@ -21,19 +21,12 @@
 <a href="https://www.linkedin.com/in/ericsadowski"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>&nbsp;
 <a href="mailto:ericsadowski4@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>
 </p>
-<p>
-<a><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logo=cisco&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Zero_Trust-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Reverse_Engineering-7C3AED?style=for-the-badge&logo=hackthebox&logoColor=white"/></a>
-</p>
 
 ---
 
 ### Languages
 
-[![Languages](https://skillicons.dev/icons?i=python,c,cpp,js,ts,bash)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,bash)](https://skillicons.dev)
 
 ### Cloud & Infrastructure
 
